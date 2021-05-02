@@ -1,0 +1,10 @@
+com.tec4u.idis_ordertool.administration
+com.tec4u.idis_ordertool.configuration
+com.tec4u.idis_ordertool.core.language_tool
+com.tec4u.idis_ordertool.core.tables
+com.tec4u.idis_ordertool.login
+com.tec4u.idis_ordertool.login.bcrypt
+com.tec4u.idis_ordertool.login.beans
+com.tec4u.idis_ordertool.login.util
+com.tec4u.idis_ordertool.register
+com.tec4u.idis_ordertool.test
